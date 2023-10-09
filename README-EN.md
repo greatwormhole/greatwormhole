@@ -24,7 +24,7 @@
 
 **Experience:**
 
-- I've worked for "Aprobotics" company for 5 months in a position of backend developer. WEB app was based on Django+JQuery+PostgreSQL+Redis. I was involved in creating endpoints for sending HTTP requests from data collection terminals (In fact, devices on Android), implementing websocket connections for several devices in a room to constantly update data on the device, creating daily tasks for automatically filling out standardized documents in the background.
+- I've worked for "Aprobotics" company for 13    months in a position of backend developer. WEB app was based on Django+JQuery+PostgreSQL+Redis. I was involved in creating endpoints for sending HTTP requests from data collection terminals (In fact, devices on Android), implementing websocket connections for several devices in a room to constantly update data on the device, creating daily tasks for automatically filling out standardized documents in the background.
 
 **My stack:**
 
