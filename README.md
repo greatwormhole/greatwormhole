@@ -40,6 +40,7 @@
 |[Anime&Manga Aggregator](https://github.com/greatwormhole/AnimeSite)|Сайт для агрегирования и обсуждение аниме и манги|**Python**, **Django**, **DjangoREST**, **PostgreSQL**, **ReactJS**, **Redux**, **Typescript**|
 |[TMM automatic solver](https://github.com/greatwormhole/TMM)|Программа на Python для теории механизмов и машин (сокращенно TMM) для анализа параметров прямозубого зубчатого колеса и построения схемы блокировки. Двухмерное отображение функции двух переменных (перемещение шестерни и колеса соответственно)|**Python**, **Matplotlib**, **Numpy**|
 |AproStorage(приватный репозиторий. Внешний вид сайта можно посмотреть [тут](https://github.com/greatwormhole/greatwormhole/blob/main/AproStorage))|Сайт для контроля продукции на складе, автоматизации заполнения нормативных документов, планирования производства посменно и на месяц в полуавтоматическом формате|**Python**, **Django**, **Redis**, **PostgreSQL**, **JQuery**, **Websockets**, **channels**|
+|[FastAPI&MongoDB Service](https://github.com/greatwormhole/AcePlaceTask))|Сервис, организующий запись, чтение и листинг уведомлений пользователя в базе MongoDB|**Python**, **FastAPI**, **MongoDB**, **PyMotor**, **sqlalchemy**, **Docker&DockerCompose**|
 
 **В данный момент я работаю над:**
 

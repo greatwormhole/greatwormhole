@@ -40,6 +40,7 @@
 |[Anime&Manga Aggregator](https://github.com/greatwormhole/AnimeSite)|Anime & Manga aggregation and discussion|**Python**, **Django**, **DjangoREST**, **ReactJS**, **Redux**, **Typescript**|
 |[TMM automatic solver](https://github.com/greatwormhole/TMM)|Python programm for Theory of Mechanisms and Machines (TMM for short) to analyze spur gear parameters and to plot blocking curcuit 2-dimensional mapping of function of two variables (gear and wheel displacement respectively)|**Python**, **Matplotlib**, **Numpy**|
 |AproStorage(private rep. Site appearance can be found [here](https://github.com/greatwormhole/greatwormhole/blob/main/AproStorage))|Website for monitoring products in a warehouse, automating the filling of regulatory documents, planning production by shifts and for a month in a semi-automatic format|**Python**, **Django**, **Redis**, **PostgreSQL**, **JQuery**, **Websockets**, **channels**|
+|[FastAPI&MongoDB Service](https://github.com/greatwormhole/AcePlaceTask))|Service organizes creation, reading and listing user's notifications in MongoDB database|**Python**, **FastAPI**, **MongoDB**, **PyMotor**, **sqlalchemy**, **Docker&DockerCompose**|
 
 **Currently i'm working on:**
 
